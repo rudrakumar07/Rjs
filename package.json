@@ -1,0 +1,37 @@
+{
+  "name": "rjs",
+  "version": "1.0.0",
+  "description": "A faster, more memory-efficient CRDT library for collaborative editing. Drop-in alternative to Yjs.",
+  "main": "lib/rjs.js",
+  "files": [
+    "lib/",
+    "src/"
+  ],
+  "scripts": {
+    "test": "node test.js",
+    "stress-test": "node tests/run_stress.js"
+  },
+  "keywords": [
+    "crdt",
+    "collaborative",
+    "realtime",
+    "editing",
+    "yjs",
+    "conflict-free",
+    "distributed"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/rjs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/rjs/issues"
+  },
+  "homepage": "https://github.com/your-username/rjs#readme",
+  "author": "Rjs Team",
+  "license": "MIT",
+  "dependencies": {},
+  "engines": {
+    "node": ">=16"
+  }
+}

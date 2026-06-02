@@ -1,0 +1,8 @@
+node_modules/
+package-lock.json
+*.png
+*.log
+*.tmp
+.env
+*.wasm
+.DS_Store
