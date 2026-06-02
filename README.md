@@ -16,6 +16,8 @@ Yjs is the most popular CRDT library, but it has known performance bottlenecks i
 
 ## Performance
 
+![Rjs vs Yjs Benchmark](benchmark.png)
+
 Benchmarked with 1000 operations per test, 1000 iterations, median time:
 
 | Benchmark | Rjs | Yjs | Speedup |
