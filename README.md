@@ -39,7 +39,7 @@ Benchmarked with 1000 operations per test, 1000 iterations, median time:
 ## Installation
 
 ```bash
-npm install npm install github:rudrakumar07/Rjs
+npm install github:rudrakumar07/Rjs
 ```
 
 Zero runtime dependencies.
